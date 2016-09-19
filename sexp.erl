@@ -1,5 +1,5 @@
 -module(sexp).
--export([main/]).
+-export([main/0]).
 -compile(export_all).
 
 main() ->
